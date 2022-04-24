@@ -1,0 +1,28 @@
+:root {
+  /*Colors*/
+  --light-cyan: hsl(193, 38%, 86%);
+  --neon-green: hsl(150, 100%, 66%);
+  --grayish-blue: hsl(217, 19%, 38%);
+  --dark-grayish-blue: hsl(217, 19%, 24%);
+  --dark-blue: hsl(218, 23%, 16%);
+
+  /*Typography*/
+  --font-size: 1.75rem;
+  --body-font: 'Manrope', sans-serif;
+  --font-medium: 500;
+  --font-bold: 800;
+
+  /*Margins bottom*/
+  --mb-0-4: 0.25rem;
+  --mb-0-8: 0.5rem;
+  --mb-1-6: 1rem;
+  --mb-3-2: 2rem;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+}

@@ -1,4 +1,4 @@
-# Advice generator app solution
+# Advice generator app
 
 App that using the Advice Slip API to generate random quotes of advice
 
