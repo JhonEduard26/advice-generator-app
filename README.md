@@ -24,12 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![mobile](./assets/screenshots/mobile.jpeg)
+![desktop](./assets/screenshots/desktop.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/JhonEduard26/advice-generator-app)
+- Live Site URL: [GitHub Pages](https://jhoneduard26.github.io/advice-generator-app/)
 
 ## My process
 
